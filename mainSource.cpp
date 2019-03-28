@@ -15,7 +15,7 @@ void PrintaEnd(){
 }
 
 void PrintaLog(string ip, int q){
-	cout << "[ " << ip << " ] " << "LOGS GERADOS ATE O MOMENTO: " << q << endl;
+	cout << "[ " << ip << " ] " << "CICLOS FEITOS ATE O MOMENTO: " << q << endl;
 }
 
 
