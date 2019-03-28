@@ -4,7 +4,7 @@
 #include <ctime> 
 #include <windows.h>
 #include <fstream>
-
+#include <locale.h>
 using namespace std;
 
 void PrintaEnd(){
@@ -15,17 +15,17 @@ void PrintaEnd(){
 }
 
 void PrintaLog(string ip, int q){
-	cout << "[ " << ip << " ] " << "CICLOS FEITOS ATE O MOMENTO: " << q << endl;
+	cout << "[ " << ip << " ] " << "CICLOS FEITOS ATÉ O MOMENTO: " << q << endl;
 }
 
 
 int main (){
-	
+	setlocale(LC_ALL,"");
 	PrintaEnd();
 	int logs = 0;
 	// -- Start do INPUT DO IP
 	string ipAdress;
-	cout << "Informe o Endereco IP:" << endl;
+	cout << "Informe o Endereço IP:" << endl;
 	cout << ">";
 	cin >> ipAdress;
 	// -- end INPUT DO IP
