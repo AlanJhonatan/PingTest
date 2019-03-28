@@ -1,0 +1,204 @@
+Wed Mar 27 17:20:49 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+Wed Mar 27 17:21:04 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+Wed Mar 27 17:21:14 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+Thu Mar 28 09:41:26 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+Thu Mar 28 09:41:29 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+Thu Mar 28 09:41:32 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 4ms, M‚dia = 2ms
+Thu Mar 28 09:41:35 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+Thu Mar 28 09:41:38 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 1ms
+Thu Mar 28 09:41:41 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 2ms, M ximo = 4ms, M‚dia = 2ms
+Thu Mar 28 09:41:44 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+Thu Mar 28 09:41:47 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 4ms, M‚dia = 2ms
+Thu Mar 28 09:41:50 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+Thu Mar 28 09:41:54 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 2ms, M ximo = 6ms, M‚dia = 3ms
+Thu Mar 28 09:41:57 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+Thu Mar 28 09:44:38 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 1ms
+Thu Mar 28 09:44:41 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 1ms
+Thu Mar 28 09:44:44 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 2ms, M ximo = 3ms, M‚dia = 2ms
+Thu Mar 28 09:44:47 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+
+Thu Mar 28 09:46:42 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 2ms, M ximo = 3ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:46:45 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:46:48 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 2ms, M ximo = 3ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:46:51 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 1ms
+
+
+Thu Mar 28 09:46:54 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+
+
+Thu Mar 28 09:48:09 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:48:13 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:48:16 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 35ms, M‚dia = 9ms
+
+
+Thu Mar 28 09:48:19 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+
+
+Thu Mar 28 09:48:58 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 5ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:49:01 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 3ms, M‚dia = 2ms
+
+
+Thu Mar 28 09:49:04 2019
+Estat¡sticas do Ping para 192.168.0.1:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 1ms, M ximo = 2ms, M‚dia = 1ms
+
